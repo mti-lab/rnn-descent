@@ -1,0 +1,12 @@
+{
+  "root_dir": "./benches/datasets",
+  "datasets": {
+    "siftsmall": {
+      "dataset_dir": "siftsmall",
+      "train_path": "siftsmall_learn.fvecs",
+      "base_path": "siftsmall_base.fvecs",
+      "query_path": "siftsmall_query.fvecs",
+      "gt_path": "siftsmall_groundtruth.ivecs"
+    }
+  }
+}
